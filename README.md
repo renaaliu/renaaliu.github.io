@@ -1,12 +1,9 @@
 # Rena Liu
-![alt text][logo]
-[logo]: https://github.com/renaaliu/OLD-renaaliu.github.io/blob/master/addOns/profile.jpg "Profile Photo"
+![alt text](https://github.com/renaaliu/OLD-renaaliu.github.io/blob/master/addOns/profile.jpg =100x20 "Profile Photo")
 
 ## Computer Science & Social Policy @ Johns Hopkins University 
 Excited about user-centric design and the intersection between tech and social impact. 
 Currently curious about effective altruism and AI deployment policy. 
-
-![alt text](https://github.com/renaaliu/OLD-renaaliu.github.io/blob/master/addOns/profile.jpg "Profile Photo")
 
 ### Links:
 * [LinkedIn](https://www.linkedin.com/in/renaaliu/) 
